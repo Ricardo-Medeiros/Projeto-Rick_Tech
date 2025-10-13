@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="att.resp2.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&icon_names=menu" />
+</head>
+<body onresize="mudouTamanho()" onload="mudouTamanho()">
+
+    
+     <header>
+
+        <h1>Meu Site de Notícias</h1>
+        <h2>O Futuro que nos aguarda</h2>
+        <br>
+    
+        <span id="burguer" class="material-symbols-outlined" onclick="clickmenu()">menu</span>
+        <nav id="itens">
+            <ul class="nav"> 
+                <li><a href="#">Início</a></li>
+                <li><a href="#">Sobre</a></li>
+                <li><a href="#">Serviços</a></li>
+                <li><a href="#">Contato</a></li>
+            </ul>
+        </nav>
+
+    
+    </header>
+    
+    <br>
+     <img src="gemini-enterprise-3-695x500.jpg" width="" height="400" alt="Tiranossauro rex">
+     <br>
+     <h2>Gemini Enterprise</h2>
+     <br>
+
+        <main>
+        <section class="content">
+     
+
+     
+     
+        
+     
+        <article>
+            <br>
+            <h2>Gemini Enterprise vai além do chatbot</h2>
+            <br>
+            <p>O Google anunciou nesta quinta-feira (9) o Gemini Enterprise, uma versão da inteligência artificial da empresa voltada para o ambiente de trabalho. Trata-se de uma plataforma completa (não apenas o chatbot), que reúne dados, ferramentas e pessoas de uma companhia em um único lugar, para agilizar fluxos de trabalho.</p>
+            <br><br>
+            <p>O lançamento aconteceu durante um evento do Google Cloud, que contou com a presença do CEO Sundar Pichai e do CEO do Cloud, Thomas Kurian.</p>
+
+            <br><br>
+            <h2>Como os clientes estão usando a tecnologia?</h2>
+
+            <br>
+            <p>Pelo menos é isso que o produto promete. De acordo com o comunicado do Google, o Gemini Enterprise cria uma verdadeira plataforma para tudo que envolve um ambiente de trabalho.</p>
+
+            <p>Nele, é possível conversar com documentos, dados e todos os aplicativos disponíveis para uso dentro de uma empresa. Além disso, há ferramentas de criação e implementação de agentes de IA (programados para realizar tarefas de forma autônoma) e conjuntos de agentes pré-criados, de acordo com o contexto de cada atividade de trabalho.</p>
+            <br><br>
+
+            <img src="rr21182905696386.webp">
+
+
+            <h2>Gemini Enterprise quer tornar o trabalho mais fácil</h2>
+
+            O Google deu exemplos:
+            <br><br>
+            <p>Em outro caso, o Gemini Enterprise tem acesso a todos os aplicativos conectados ao ecossistema e consegue responder dúvidas a partir de um contexto completo. Ele pode, por exemplo, analisar dados financeiros para te ajudar a tomar a melhor decisão.
+            A HCA Healthcare (uma rede de hospitais e serviços de saúde nos EUA) usou as ferramentas para melhorar a transferência de informações dos pacientes durante trocas de turnos de enfermeiros. Isso é possível graças a relatórios automatizados ao fim de cada turno, ato que economiza milhares de horas por ano;
+            A Best Buy (rede de varejo) usou o Gemini Enterprise no atendimento ao cliente. Segundo o Google, a adesão aumentou em 200% o número de clientes que remarca as próprias entregas e resolveu 30% mais dúvidas sobre tópicos simples, como preços;
+            O próprio Google está usando a tecnologia, incluindo operações e codificação até marketing e gestão de cadeia de suprimentos. De acordo com a big tech, “quase metade de todo o novo código no Google é gerado por IA, revisado e aceito por engenheiros”.</p>
+            <br><br>
+
+            <h2>Gemini Enterprise tem acesso a vários documentos dentro do ecossistema e consegue responder perguntas de uma maneira mais informada</h2>
+
+            <br>
+            <p>Imagine dar a cada equipe um assistente especializado com habilidades de nível avançado sob demanda. O Gemini Enterprise torna isso possível. Com uma poderosa plataforma de trabalho sem código, qualquer usuário — do marketing ao financeiro — pode criar "agentes" de IA personalizados para lidar com suas tarefas mais tediosas.</p>
+
+            <p>Por exemplo, um gerente de marketing pode iniciar uma nova campanha em minutos, em vez de dias. Ele pode solicitar que um agente gere conceitos criativos para o lançamento de um novo produto. Como o agente está conectado com segurança aos dados da empresa, ele entende instantaneamente os detalhes do produto e tem acesso a todos os ativos criativos aprovados, como logotipos, imagens da marca e do produto. O agente pode então gerar uma variedade de ideias de campanha de alta qualidade e alinhadas à marca — completas com textos para mídias sociais e mockups visuais — prontas para a equipe revisar. Isso permite que as equipes passem de um prompt simples para ideias refinadas e acionáveis ​​em uma escala que antes era impossível.</p>
+            <br><br>
+            </article>
+            
+            
+        
+     
+            <br><br>
+
+            
+
+     
+            <article>
+
+                <h2>OpenAI fecha acordo bilionário com AMD e promete novo salto em chips para inteligência artificial</h2>
+
+                <img src="portalitshow_Logos_da_OpenAI_e_AMD_representando_o_acordo_bil_136cc435-61bb-4308-927f-559752039164_3-696x390.png">
+                <br><br>
+                <h2>OpenAI fecha acordo bilionário com AMD e promete novo salto em chips para inteligência artificial</h2>
+
+            <br>
+            <p>A OpenAI, desenvolvedora do ChatGPT, anunciou um acordo bilionário com a AMD, uma das principais concorrentes da Nvidia no setor de semicondutores. O contrato prevê o fornecimento de chips especializados em inteligência artificial (IA) e representa um movimento estratégico para reduzir a dependência da empresa em relação à Nvidia, que atualmente domina o mercado de hardware voltado ao aprendizado de máquina.</p>
+
+            <p>De acordo com informações divulgadas nesta segunda-feira (6), o acordo permitirá à OpenAI instalar centenas de milhares de processadores de IA ao longo dos próximos anos. O projeto, estimado em cerca de 6 gigawatts de capacidade computacional, começará a ser implementado no segundo semestre de 2026, em etapas, até atingir plena operação.</p>
+            <br><br>
+            <h2>Parceria estratégica e investimento cruzado</h2>
+            
+
+
+            <br>
+            <p>O contrato bilionário inclui a possibilidade de a OpenAI adquirir até 10% de participação na AMD, reforçando o caráter de parceria estratégica entre as companhias. A negociação é vista como uma resposta direta à crescente disputa por poder computacional no setor de inteligência artificial, que exige processadores mais rápidos e eficientes para suportar modelos de linguagem cada vez maiores.</p>
+
+            <p>Em comunicado à imprensa, a OpenAI afirmou que a cooperação com a AMD ajudará a acelerar o progresso e ampliar o acesso a uma IA mais rápida e eficiente, em linha com sua meta de tornar o desenvolvimento tecnológico escalável e sustentável.</p>
+
+            <p>A AMD, por sua vez, destacou que o contrato consolida sua posição como uma das principais fornecedoras de hardware para o mercado de IA. O vice-presidente executivo da empresa, Forrest Norrod, afirmou em entrevista à Reuters que a parceria pode gerar bilhões de dólares em receita anual, somando-se à OpenAI e a outros clientes de grande porte. Ele classificou o acordo como transformador, afirmando que o impacto deve se estender a toda a dinâmica do setor de tecnologia.</p>
+            <br><br>
+
+
+            <h2>Expansão global e impacto na concorrência</h2>
+            <br>
+            Com o crescimento exponencial da inteligência artificial generativa, a demanda por chips de alto desempenho atingiu níveis inéditos. A Nvidia, atual líder de mercado, detém cerca de 80% das vendas de GPUs voltadas à IA. A entrada da AMD nesse segmento com o respaldo da OpenAI pode alterar esse equilíbrio e ampliar a competitividade no setor.</p>
+
+            <p>A parceria também fortalece a infraestrutura global da OpenAI, que busca expandir sua base de data centers para treinar e operar modelos de linguagem cada vez mais complexos. Especialistas apontam que o investimento pode reduzir gargalos no fornecimento de chips e acelerar o desenvolvimento de produtos mais poderosos e acessíveis.</p>
+
+            <p>O acordo é visto por analistas de mercado como um marco na nova corrida tecnológica, comparável à disputa travada entre gigantes da computação na era da nuvem. Para a AMD, a colaboração com a OpenAI representa uma oportunidade de consolidar seu papel em um dos setores mais lucrativos e estratégicos da economia digital.</p>
+
+            <br><br>
+
+            <p>O anúncio ocorre em meio a uma onda de investimentos bilionários em fabricantes de semicondutores. No mês anterior, a Nvidia adquiriu participação de 5 bilhões de dólares na Intel, o que impulsionou as ações da empresa e levou o governo dos Estados Unidos a também adquirir uma fatia de 10% da fabricante americana.</p>
+
+            <p>Poucos dias antes, o SoftBank, conglomerado japonês conhecido por seus aportes no setor de tecnologia, anunciou investimento de 2 bilhões de dólares na Intel, reforçando a percepção de que governos e fundos globais estão atuando de forma coordenada para fortalecer a indústria de chips, considerada essencial para a soberania digital das nações.</p>
+
+            <p>Esses movimentos indicam que o setor de semicondutores se tornou o novo eixo estratégico da economia mundial, com impacto direto em áreas como defesa, saúde, transportes e finanças. O domínio sobre a produção e distribuição de chips de IA representa não apenas uma vantagem tecnológica, mas também geopolítica.</p>
+
+            <br><br>
+            
+        </article>
+        </section>
+
+        <aside class="sidebar">
+            <ul class="a">
+                <li><a href="#">PODCAST</a></li>
+                <li><a href="#">CIBERSEGURANÇA</a></li>
+                <li><a href="#">INFRAESTRUTURA E TI</a></li>
+                <li><a href="#">TECNOLOGIA</a></li>
+
+            </ul>
+
+            <h2>Violação expõe fotos de identidade de 70 mil usuários do Discord</h2>
+
+            <img src="discord-1920x1080.jpg">
+
+            <article>
+                <p>Novas informações surgiram sobre o caso do roubo de dados de usuários na plataforma de comunicação Discord. Tanto os responsáveis pelo incidente de cibersegurança quanto a própria companhia se manifestaram a respeito do assunto.</p>
+
+            <p>De acordo com o site Bleeping Computer, que recebeu as notas oficiais de ambas as partes, os dois lados discordam sobre vários pontos, incluindo a quantidade de pessoas afetadas na invasão. A brecha foi explorada a partir do final de setembro deste ano, mas só na última semana foi comunicada oficialmente pela empresa e pelos supostos envolvidos.</p>
+            <br>
+            <p>Os invasores afirmam que possuem documentos de até 2,1 milhões de pessoas e que um total de 5,5 milhões de usuários estão com os dados vulneráveis. Eles ainda alegam que a invasão ocorreu por meio da instância do Zendesk que é utilizada pelo próprio Discord.</p>
+
+            <P>Por outro lado, a companhia argumenta que os hackers inflaram de propósito a quantidade de vítimas para gerar alarde e forçar a marca a fazer o pagamento pedido. 
+            Além disso, em nota enviada ao TecMundo, a Zendesk se posicionou sobre o possível envolvimento no caso. "Nossa investigação indica que este incidente não surgiu de uma vulnerabilidade na plataforma da Zendesk. Os próprios sistemas da Zendesk não foram comprometidos", diz.</p>
+            <br><br>
+
+            <p>Os hackers, que não se identificaram publicamente, alegam ter 1,6 TB de dados obtidos da instância afetada. Ela ficou vulnerável por 58 horas dede 20 de setembro de 2025;
+            O problema de segurança não envolveu uma invasão propriamente dita aos servidores: os criminosos usaram uma conta de um funcionário terceirizado que foi roubada e garantiu o acesso;
+            Dentro dos servidores, eles teriam desabilitado a autenticação multifatores da plataforma para ter maior liberdade de navegação e chegaram a informações como números de telefone e endereços de email, além de "alguns tipos de informações sobre pagamentos";
+            Outros dados que estariam na base de dados obtida incluem nome de usuário, data de nascimento, detalhes sobre a autenticação de múltiplos fatores e “outras informações internas”;</p>
+            </article>
+
+        
+                
+            
+        </aside>
+
+
+       
+     
+     
+     <script>
+        function clickmenu(){
+                const itens = document.getElementById("itens");
+                itens.style.display = (itens.style.display === "block") ? "none" : "block";
+            } 
+
+
+        function mudouTamanho(){
+            const itens = document.getElementById("itens");
+            itens.style.display = (window.innerWidth >= 768) ? "block" : "none";
+
+            }
+    </script>
+    <br><br>
+    </main>
+
+    <br><br>
+
+    <iframe width="820" height="461" src="https://www.youtube.com/embed/QmAnVQAgpRY" title="GRANA PRA FAZER JOGO! Como o Governo impulsiona o desenvolvimento de GAMES no BR?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    
+
+    
+    <br><br>
+
+    
+        <h2>Últimas Notícias</h2>
+    <br>
+
+    
+    <nav>
+        <ul>
+            <li><a href="#">Saiba como a IA está mudando pessoas</a></li>
+            <li><a href="#">Dólar aumenta consideravelmente nesta última semana</a></li>
+            <li><a href="#">Elon Musk se torna o homem mais rico do mundo novamente</a></li>
+
+            
+        </ul>
+    </nav>
+    <br><br><br>
+
+    <img src="9686688767028825141.png" width="" height="" alt="Publicidade">
+
+    
+    <br><br><br><br>
+
+
+
+     
+
+     <footer class="footer">
+        <p>&copy; 2025 Feito por Ricardo Medeiros </p>
+     </footer>
+
+</body>
+</html>
